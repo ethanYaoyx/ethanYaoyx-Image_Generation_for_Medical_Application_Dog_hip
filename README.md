@@ -47,6 +47,11 @@ Here is an overview of the dataset used in this project:
 | **total**           | 84             | 31              | 219                | 713                   | 358      | 967            | 200                  | 121     | 2693      |
 
 The weight link: 
+RTMpose weight: 
+https://yuad-my.sharepoint.com/:f:/g/personal/yyao3_mail_yu_edu/Eg89uyyGuAlKqJeUJMzXBs8B0QI1I7QXvU2KgTN13oIxrA?e=AVROka
+RTMdetection weight: 
+https://yuad-my.sharepoint.com/:f:/g/personal/yyao3_mail_yu_edu/EvzS8kjpTHJMolGhqL5p2j0Bnj28oBKP7UOPAdZuWQWFoA?e=Qups5s
+
 
 ## training
 All model configurations are stored in the configs/ directory.
