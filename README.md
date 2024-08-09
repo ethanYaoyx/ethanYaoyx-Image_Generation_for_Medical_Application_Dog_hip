@@ -1,6 +1,6 @@
 # RTMpose: Dog Hip Keypoints Detection
 
-The aim of this study is to utilize the Keypoints Detection model to predict the Norberg Angle prediction model. The Norberg Angle is illustrated in the figure below. The study involved fine-tuning the DDPM, DreamBooth, and Stable Diffusion models to produce high-quality images. Moreover, a tailored model that amalgamated the EfficientNet and ViT_Gigantic_Patch14_Clip_224 architectures achieved the lowest prediction loss.
+The aim of this study is to utilize the Keypoints Detection model to predict the Norberg Angle prediction model. The Norberg Angle is illustrated in the figure below. This study build a custom model based on RTMpose and RTMdetection.
 
 <img src="https://github.com/YoushanZhang/AiAI/assets/74528993/3c3fd898-7857-4f2a-88fd-723165ddfb4f" width="450" height="250">
 
