@@ -54,7 +54,7 @@ RTMpose weight:
 https://yuad-my.sharepoint.com/:f:/g/personal/yyao3_mail_yu_edu/Eg89uyyGuAlKqJeUJMzXBs8B0QI1I7QXvU2KgTN13oIxrA?e=AVROka
 RTMdetection weight: 
 https://yuad-my.sharepoint.com/:f:/g/personal/yyao3_mail_yu_edu/EvzS8kjpTHJMolGhqL5p2j0Bnj28oBKP7UOPAdZuWQWFoA?e=Qups5s
-
+All the models weights: https://yuad-my.sharepoint.com/:f:/r/personal/yyao3_mail_yu_edu/Documents/weight_all_models?csf=1&web=1&e=LEotnG
 
 ## training
 All model configurations are stored in the configs/ directory.
