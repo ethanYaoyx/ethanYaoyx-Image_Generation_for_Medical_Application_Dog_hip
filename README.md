@@ -52,8 +52,10 @@ Here is an overview of the dataset used in this project:
 The weight link: 
 RTMpose weight: 
 https://yuad-my.sharepoint.com/:f:/g/personal/yyao3_mail_yu_edu/Eg89uyyGuAlKqJeUJMzXBs8B0QI1I7QXvU2KgTN13oIxrA?e=AVROka
+
 RTMdetection weight: 
 https://yuad-my.sharepoint.com/:f:/g/personal/yyao3_mail_yu_edu/EvzS8kjpTHJMolGhqL5p2j0Bnj28oBKP7UOPAdZuWQWFoA?e=Qups5s
+
 All the models weights: https://yuad-my.sharepoint.com/:f:/r/personal/yyao3_mail_yu_edu/Documents/weight_all_models?csf=1&web=1&e=LEotnG
 
 ## training
@@ -94,7 +96,8 @@ You can find the prediction in the 'prediction_keypoint_.ipynb' file.
 ### Model Performance Comparison
 The table below showcases the performance metrics for various models evaluated in the study:
 
-<img src="https://github.com/ethanYaoyx/ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip/blob/main/Files/models.png>
+![Table](https://github.com/ethanYaoyx/ethanYaoyx-Image_Generation_for_Medical_Application_Dog_hip/blob/main/Files/models.png?raw=true)
+
 
 **Key Observations**:
 - **Best Performing Model**: The NANet model demonstrated superior results in terms of accuracy, achieving an R2 score close to 1.0 for both angle and keypoint prediction, and a high percentage of accurate predictions under the defined thresholds.
