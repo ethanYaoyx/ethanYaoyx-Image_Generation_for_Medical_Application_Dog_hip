@@ -106,6 +106,6 @@ The table below showcases the performance metrics for various models evaluated i
 - **Metric Comparisons**:
     - The **EfficientNetB7 & ViT** combined model and **NANet** both showcased strong performance in terms of MSE and MAE for angles and keypoint detection.
     - The **RTMpose-X** and **RTMpose-m** models provided balanced results, indicating good potential for future optimizations.
-- **Decrease %** values in the table show the improvement gained when integrating generated data into the training process.
+- **Error %** values in the table show the improvement gained when integrating generated data into the training process.
 
 These results underline the value of combining efficient architecture choices like EfficientNet and ViT, or custom models such as NANet, to boost performance in keypoint and angle predictions, crucial for veterinary applications involving hip dysplasia assessments.
